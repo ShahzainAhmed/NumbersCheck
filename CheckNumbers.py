@@ -15,7 +15,7 @@ elif number == 0:
 # Using else statement to check if the number is negative.   
 else:
    print("Negative number")
-   a
+   
    a
    
    a
