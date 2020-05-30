@@ -9,7 +9,8 @@ if number > 0:
 # Using else if statement to check if the number is equal to zero.   
 elif number == 0:
    print("Zero")
-   
+
+# Using else statement to check if the number is negative.   
 else:
    print("Negative number")
 
