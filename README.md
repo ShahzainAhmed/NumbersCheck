@@ -6,3 +6,5 @@
 
 ## For this program, you should have the knowledge of:
 - if/else/elif statements.
+- print statements
+- variables
