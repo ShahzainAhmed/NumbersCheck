@@ -17,8 +17,7 @@ else:
    print("Negative number")
    
    
-   a
-   a
+   
    a
    
 as
