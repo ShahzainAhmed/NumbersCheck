@@ -16,9 +16,7 @@ elif number == 0:
 else:
    print("Negative number")
    
-   a
    
-   a
    a
    a
    a
